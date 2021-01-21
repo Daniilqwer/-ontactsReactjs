@@ -1,0 +1,14 @@
+body {
+  background-color: #7CA591;
+}
+.comBtn {
+  background-color: #3D3D4C;
+}
+
+.com-in {
+  width: 400px;
+  /*margin-top: 400px;*/
+}
+.com-in .is-invalid {
+  border: 3px solid #dc3545;
+}
