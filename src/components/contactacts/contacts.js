@@ -3,8 +3,6 @@ import ReactDOM from 'react-dom';
 
 import ContactItem from '../contact-item/contact-item.js';
 
-import './contacts.css';
-
 export default class Contacts extends Component {
 
 	render() {
